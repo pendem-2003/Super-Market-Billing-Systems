@@ -239,7 +239,7 @@ void intro()
     cout << "BILLING   ";
     cout << "PROJECT"<<endl;
     cout<<endl;
-    cout << "\t\t\t\t MADE BY :     VALLAKONDA ALEKHYA  "<<endl;
+    cout << "\t\t\t\t MADE BY :     Pendem Ganesh  "<<endl;
     cout<<endl;
     cout << "                             INDIAN INSTITUTE OF TECHNOLOGY KHARAGPUR"<<endl<<endl;
     //cout<<"Please enter Administrator ID"<<endl;
